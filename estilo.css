@@ -1,0 +1,19 @@
+#contenedor{
+    width:85%;
+    height: 450px;
+    border:1px solid rgb(18, 18, 18);
+    margin:auto;
+}
+h3{
+    background-color: #2aa4f0;
+    color:rgb(0, 0, 0);
+    text-align: center;
+    padding:10px;
+}
+#resultado{
+    height: 150px;
+    background-color: rgb(180, 234, 246);
+    margin:20px;
+    color:rgb(0, 0, 0);
+    text-align: center;
+}
